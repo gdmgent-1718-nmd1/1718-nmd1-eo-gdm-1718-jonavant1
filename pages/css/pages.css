@@ -14,5 +14,16 @@ body {
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
+.plus{
+    width: 700px;
+    background-color: rgb(154, 199, 154);
+    line-height: 24px;
+}
+.min{
+    width: 700px;
+    background-color: rgb(219, 139, 139);
+    line-height: 24px;
+
+}
 
 /* Voeg jouw css hieraan toe */
