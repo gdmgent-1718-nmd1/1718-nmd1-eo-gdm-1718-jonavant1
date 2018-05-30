@@ -16,14 +16,17 @@ h1{
     color: white;
     padding: 10px 20px 15px 20px;
     text-decoration: underline;
+    text-align: center;
 }
 h2{
     background-color: #484848;
     color: white;
     padding: 5px 10px 5px 10px;
+    text-align: center;
 }
 .info{
     padding-left: 40px;
+
 }
 .infodt{
     font-weight: bold;
@@ -53,26 +56,164 @@ img {
     background-color: rgb(219, 139, 139);
     line-height: 24px;
 }
-.styleguide{
-    background-color: #EFEAEA;
+.styleguide-logo{
+    padding: 0px 40px 0px 40px;
 }
-.styleguide-body{
-
+.grootlogo{
+    width: 400px;
+    height: auto;
+    align-content: flex-start;
+}
+.kleinlogo{
+    width: 400px;
+    height: auto;  
+}
+.styleguidelogo{
     text-align: center;
+    align-content: center;
+}
+.styleguide-functies{
+    background-color: rgb(109, 105, 105);
+    color: white;
+    margin: 0px -50px 0px -50px;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    align-content: center;
 }
 .DS1{
-    width: 500px;
-    height: auto;
-    padding-bottom: 20px;
-}
-
-.DS2{
     width: 469px;
     height: 264px;
     border: 3px solid #707070;
 }
-.DS2:hover {
+.DS1:hover {
     transform: scale(1.1, 1.1); 
     opacity: 1;
 }
-/* Voeg jouw css hieraan toe */
+.styleguide-icons{
+    margin: 0px -50px 0px -50px;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    align-content: center;
+}
+.DS2{
+    width: auto;
+    height: 50px;
+}
+.DS3{
+    width: auto;
+    height: 50px;
+}
+.DS4{
+    width: auto;
+    height: 50px;
+}
+.DS5{
+    width: auto;
+    height: 50px;
+}
+.DS6{
+    width: auto;
+    height: 50px;
+}
+.orange-rectangle1{
+    display: table;
+    width: 250px;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #DCAA65; 
+    margin: 20px auto 0px auto;
+    border: 1px solid #707070;
+    border-radius: 20px;
+}
+.orange-rectangle1 span{
+    font-family: "Roboto Slab";
+    font-size: 35;
+    font-weight: bold;
+    color: white;
+}
+.orange-rectangle2{
+    display: table;
+    width: 250px;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #DCAA65; 
+    margin: 20px auto 0px auto;
+    border: 1px solid #707070;
+    border-radius: 20px;
+}
+.orange-rectangle2 span{
+    font-family: "Roboto Slab";
+    font-size: 35;
+    font-weight: bold;
+    color: white;
+}
+.orange-rectangle3{
+    display: table;
+    width: 30px;
+    height: 28px;
+    background-color: #DCAA65; 
+    margin: 20px auto 0px auto;
+    border: 1px solid #707070;
+    border-radius: 50%;
+}
+.orange-rectangle3 span{
+    font-family: "Roboto Slab";
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+.styleguide-fonts{
+    text-align: center;
+    align-content: center;
+    padding: 20px 40px 20px 40px;
+    background-color: rgb(109, 105, 105);
+    color: white;
+    margin: 0px -50px 0px -50px;
+}
+.styleguide-fonts2{
+    display: inline-block;
+    text-align: left;
+}
+.header1{
+    font-family: "Springtime Sunshine";
+    font-size: 42px;
+}
+.header2{
+    font-family: "Roboto Slab";
+    font-size: 34px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.header3{
+    font-family: "Roboto Slab";
+    font-size: 27px; 
+}
+.header4{
+    font-family: "Roboto Slab";
+    font-size: 40px;
+    text-decoration: underline;
+}
+.header5{
+    font-family: "Roboto Slab";
+    font-size: 70px;
+    font-weight: bold; 
+}
+.header6{
+    font-family: "Arial";
+    font-size: 45px;
+}
+.header7{
+    font-family: "Arial";
+    font-size: 45px;
+    font-weight: bold;
+}
+.header8{
+    font-family: "Arial";
+    font-size: 27px;
+}
+.header9{
+    font-family: "Arial";
+    font-size: 15px;
+}
