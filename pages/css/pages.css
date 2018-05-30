@@ -9,21 +9,70 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+    background-color: rgb(163, 216, 219);
 }
-
+h1{
+    background-color: black;
+    color: white;
+    padding: 10px 20px 15px 20px;
+    text-decoration: underline;
+}
+h2{
+    background-color: #484848;
+    color: white;
+    padding: 5px 10px 5px 10px;
+}
+.info{
+    padding-left: 40px;
+}
+.infodt{
+    font-weight: bold;
+}
+.intro{
+    padding: 0px 40px 0px 40px;
+}
+.concurrentie{
+    padding: 0px 40px 0px 40px;
+}
+.scenarios{
+    padding: 0px 40px 0px 40px;
+}
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
+.concurrentieintro{
+    font-weight: bold;
+}
 .plus{
     width: 700px;
-    background-color: rgb(154, 199, 154);
+    background-color: #ADDC65;
     line-height: 24px;
 }
 .min{
     width: 700px;
     background-color: rgb(219, 139, 139);
     line-height: 24px;
+}
+.styleguide{
+    background-color: #EFEAEA;
+}
+.styleguide-body{
 
+    text-align: center;
+}
+.DS1{
+    width: 500px;
+    height: auto;
+    padding-bottom: 20px;
 }
 
+.DS2{
+    width: 469px;
+    height: 264px;
+    border: 3px solid #707070;
+}
+.DS2:hover {
+    transform: scale(1.1, 1.1); 
+    opacity: 1;
+}
 /* Voeg jouw css hieraan toe */
