@@ -115,6 +115,10 @@ img {
     width: auto;
     height: 50px;
 }
+.DS7{
+    width: auto;
+    height: 80px;
+}
 .orange-rectangle1{
     display: table;
     width: 250px;
@@ -151,8 +155,9 @@ img {
 }
 .orange-rectangle3{
     display: table;
-    width: 30px;
-    height: 28px;
+    width: auto;
+    height: auto;
+    padding: 1px 7px 0px 7px;
     background-color: #DCAA65; 
     margin: 20px auto 0px auto;
     border: 1px solid #707070;
