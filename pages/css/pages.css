@@ -241,44 +241,44 @@ img {
 }
 .header1{
     font-family: "Springtime Sunshine";
-    font-size: 42px;
+    font-size: 31.5px;
 }
 .header2{
     font-family: "Roboto Slab";
-    font-size: 34px;
+    font-size: 25.5px;
     text-decoration: underline;
     font-weight: bold;
 }
 .header3{
     font-family: "Roboto Slab";
-    font-size: 27px; 
+    font-size: 20.25px; 
 }
 .header4{
     font-family: "Roboto Slab";
-    font-size: 40px;
+    font-size: 30px;
     text-decoration: underline;
 }
 .header5{
     font-family: "Roboto Slab";
-    font-size: 70px;
+    font-size: 52.5px;
     font-weight: bold; 
 }
 .header6{
     font-family: "Arial";
-    font-size: 45px;
+    font-size: 33.75px;
 }
 .header7{
     font-family: "Arial";
-    font-size: 45px;
+    font-size: 33.75px;
     font-weight: bold;
 }
 .header8{
     font-family: "Arial";
-    font-size: 27px;
+    font-size: 20.25px;
 }
 .header9{
     font-family: "Arial";
-    font-size: 15px;
+    font-size: 11.25px;
 }
 .styleguide-colors{
     margin: 0px -50px 0px -50px;
@@ -420,4 +420,7 @@ img {
     border: 2px solid white;
     font-size: 15px;
     margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
 }
